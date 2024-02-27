@@ -24,7 +24,7 @@ AUTHOR:
 
 REPORTING BUGS:
 
-  Report all bugs to lepl1529@vandals.uidaho.edu
+  Report all bugs to lepl1529@alumni.uidaho.edu
 
 COPYRIGHT:
 
